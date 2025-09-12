@@ -21,4 +21,7 @@ cout<<a;
 cout<<b;
 return 0;
 }
+
+output
+66655545
 ```
